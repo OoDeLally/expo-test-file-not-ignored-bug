@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "useUnknownInCatchVariables": false,
+    "types": ["node", "@types/jest"],
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}
